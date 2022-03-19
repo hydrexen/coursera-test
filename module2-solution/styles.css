@@ -1,4 +1,11 @@
+* {
+    box-sizing: border-box;
+}
 h1 {
     text-align: center;
-    size: 2em;
+}
+p {
+    background-color: #bfbfbf;
+    border: 2px solid black;
+    height: 150px;
 }
